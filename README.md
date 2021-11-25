@@ -22,6 +22,13 @@
 ### Experiment setting
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/62350977/143507114-84895517-e8bb-4474-9fea-e2d83e6eb225.png">
 
+### Run
+
+```Python
+python main_simple.py --save_root save_root --days 7
+```
+
+
 ### Metrics
 - MSE
 - RMSE
